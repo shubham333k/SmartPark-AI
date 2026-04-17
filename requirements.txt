@@ -1,0 +1,25 @@
+# SmartPark AI - AI-Powered Parking Management System
+# Core Computer Vision Dependencies
+ultralytics>=8.0.200
+opencv-python-headless>=4.8.0
+supervision>=0.14.0
+
+# Streamlit Web Application
+streamlit>=1.28.0
+streamlit-webrtc>=0.47.0
+
+# Data Processing & Visualization
+numpy>=1.24.0
+pandas>=2.0.0
+plotly>=5.17.0
+Pillow>=10.0.0
+
+# OCR for License Plate Detection
+easyocr>=1.7.0
+
+# Utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+
+# Optional: For video codec support
+imageio[ffmpeg]>=2.31.0
