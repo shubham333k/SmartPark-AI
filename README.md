@@ -279,8 +279,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **AI/ML Engineer**  
-📩 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+📩 shubhamjhanjhot333k@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/shubham-kumar-565040253/)  
 🌐 [Portfolio](https://yourportfolio.com)
 
 ---
