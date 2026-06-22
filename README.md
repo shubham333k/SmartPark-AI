@@ -204,23 +204,6 @@ Tested on CPU (Intel i5-1240P / AMD Ryzen 5):
 *Timestamped occupancy data with vehicle counts and violations*
 
 ---
-
-## 🎓 Resume Bullet Points for AIML Engineer CV
-
-> **Copy-paste these directly into your resume:**
-
-• **Developed SmartPark AI**, a real-time parking occupancy detection system using **YOLOv8/v11** and **OpenCV**, achieving **85-91% detection accuracy** at **15-30 FPS** on CPU-only deployment
-
-• **Architected polygon-based parking slot management system** with configurable JSON layouts and IoU-based occupancy detection, supporting automatic grid generation and custom slot definitions
-
-• **Built production-grade Streamlit dashboard** with real-time analytics, Plotly visualizations, and automated CSV reporting; deployed as containerized web application for smart city pilot program
-
-• **Implemented ByteTrack object tracking** with supervision library to maintain consistent vehicle IDs across frames, enabling accurate occupancy state transitions and violation detection
-
-• **Optimized inference pipeline** for CPU deployment using Ultralytics best practices, achieving **40% reduction** in processing time through frame sampling and efficient polygon intersection algorithms
-
----
-
 ## 🔧 Advanced Configuration
 
 ### Environment Variables
