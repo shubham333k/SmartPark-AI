@@ -73,8 +73,8 @@ SmartPark AI/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/smartpark-ai.git
-   cd smartpark-ai
+   git clone https://github.com/shubham333k/SmartPark-AI.git
+   cd SmartPark-AI
    ```
 
 2. **Create virtual environment**
@@ -264,7 +264,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **AI/ML Engineer**  
 📩 shubhamjhanjhot333k@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-kumar-565040253/)  
-🌐 [Portfolio](https://yourportfolio.com)
+
 
 ---
 
