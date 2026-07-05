@@ -263,7 +263,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **AI/ML Engineer**  
 📩 shubhamjhanjhot333k@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shubham-kumar-565040253/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shubhamkumar-aiml/)  
 
 
 ---
